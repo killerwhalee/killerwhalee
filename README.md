@@ -22,7 +22,7 @@ Languages I want to learn: [JavaScript, C++, Haskell]
 ## Contact with Me
 email => killerwhalee@kaist.ac.kr
 
-blogs => Nil
+blogs => https://blog.naver.com/jacob7432
 
 <!---
 KillerWhalee/KillerWhalee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
