@@ -4,7 +4,7 @@ Develop somewhat weird, but interesting.
 ## Introduction
 I'm currently student in kaist.
 
-Double major of Chemistry and Computer Science.
+Majored in Computer Science, minored in Chemistry and Industrial Design
 
 Interested in Computer System.
 
@@ -20,9 +20,10 @@ Languages I want to learn: [JavaScript, C++, Haskell]
 
 
 ## Contact with Me
-email => killerwhalee@kaist.ac.kr
 
-blogs => https://blog.naver.com/jacob7432
+  contactType match
+    case email => killerwhalee@kaist.ac.kr
+    case blogs => https://blog.naver.com/jacob7432
 
 <!---
 KillerWhalee/KillerWhalee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
