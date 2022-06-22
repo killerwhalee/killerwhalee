@@ -12,7 +12,7 @@ Interested in Computer System.
 ## Main Developing Language
 Mainly using Python for quick developing. Python can do anything.
 
-C for sub-language for effective developing. C is fast.
+Using C for sub-language because of effective developing. Yes, C is lot faster than Python.
 
 Other language I can treat: [Java, Scala, Assembly Language]
 
