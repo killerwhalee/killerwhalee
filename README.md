@@ -1,7 +1,7 @@
 # Killerwhalee, Mad Developer 
 Develop somewhat weird, but interesting.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KillerWhalee)](https://github.com/KillerWhalee/)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KillerWhalee&count_private=true)](https://github.com/KillerWhalee/)
 
 ## Introduction
 I'm currently student in `KAIST`
