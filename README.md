@@ -4,7 +4,7 @@ Develop somewhat weird, but interesting.
 ## Introduction
 I'm currently student in `KAIST`
 
-Majored in `Computer Science`, minored in `Chemistry` and `Industrial Design`
+Majored in `Computer Science`, minored in `Chemistry`.
 
 Interested in System Programming, Operating System, Program Developing.
 
