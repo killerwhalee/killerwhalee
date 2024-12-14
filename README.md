@@ -22,10 +22,6 @@ Email
 - `killerwhalee@kaist.ac.kr`
 - `jacob7432@gmail.com`
 
-Link
-- [LinkedIn](https://www.linkedin.com/in/killerwhalee)
-- [Notion](https://killerwhalee.notion.site/chaemin-lim)
-
 <!---
 KillerWhalee/KillerWhalee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes!
